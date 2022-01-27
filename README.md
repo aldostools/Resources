@@ -10,6 +10,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [ManaGunZ](https://github.com/Zarh/ManaGunZ/releases)
 * [MultiMAN](https://store.brewology.com/ahomebrew.php?brewid=24)
 * [sMAN](https://store.brewology.com/ahomebrew.php?brewid=309)
+* [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
 
 # Tools for PS3
 * [PS3HEN @ ps3xploit.com](https://ps3xploit.com) - Homebrew Enabler for *all* PS3 models (4.82,4.84-4.88)
@@ -25,6 +26,6 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [webMAN Web Commands](https://www.psx-place.com/threads/webman-mod-web-commands.1508/)
 
 # SDKs for developement on PS3
-@rhynec have prepared to github repos which provide pre-compiled PSL1GHT toolchains, tested to be working correctly:
+[@rhynec](https://github.com/rhynec?tab=repositories) have prepared to github repos which provide pre-compiled PSL1GHT toolchains, tested to be working correctly:
 - [SDK-Mirror](https://github.com/PS3SDK-Misc/SDK-Mirror): Mirrored and re-packaged pre-compiled toolchains from various authors.
 - [SDK-Build](https://github.com/rhynec/PS3SDK-Build): Automated builds of the PSL1GHT toolchain, with the psdk variant meant as a re-creation of PSDK3v2 for Linux (using gcc 4), and the ps3dev-latest variant being a working build of latest ps3dev sources (using an older commit to PSL1GHT, since newer commits seems to break builds).
