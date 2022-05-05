@@ -12,19 +12,24 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [sMAN](https://store.brewology.com/ahomebrew.php?brewid=309)
 * [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
 
-# Tools for PS3
+# Essential Tools for PS3
+* [Apollo Save Tool](https://store.brewology.com/ahomebrew.php?brewid=321) 
+* [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152) 
+
+# Firmware Tools for PS3
 * [PS3HEN @ ps3xploit.com](https://ps3xploit.com) - Homebrew Enabler for *all* PS3 models (4.82,4.84-4.88)
 * [BGToolset @ ps3xploit.net](https://ps3xploit.net/bgtoolset/) - CFW Patches for CFW compatible models (4.80-4.88)
 * [EvilNat's CFW 4.88 Cobra 8.3](https://www.brewology.com/?p=4627) - Latest CFW for PS3
 * [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
 
-# Online Tools
+# Online Tools & Databases
 * [PS3 Game Updates](https://ps3.aldostools.org/updates.html)
 * [PS3 IRD Database](https://ps3.aldostools.org/ird.html)
 * [PS2 Config Database](https://ps3.aldostools.org/ps2config.html)
 * [PS3 Virtual Gamepad](https://pad.aldostools.org)
-* [webMAN Web Commands](https://www.psx-place.com/threads/webman-mod-web-commands.1508/)
+* [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
+* [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
 
 # SDKs for developement on PS3
 [@rhynec](https://github.com/rhynec?tab=repositories) has prepared two github repos which provide pre-compiled PSL1GHT toolchains:
