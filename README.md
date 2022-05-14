@@ -18,6 +18,8 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
  
 # Modding Tools
 * [Modio](https://github.com/ohhsodead/modio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
+* [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
+* [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3)
  
 # Firmware Tools for PS3
 * [PS3HEN @ ps3xploit.com](https://ps3xploit.com) - Homebrew Enabler for *all* PS3 models (4.82,4.84-4.88)
