@@ -33,7 +33,7 @@ Online Tools & Databases
 • webMAN Web Commands
 
 Modding Tools
-• Modio - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
+• [Modio](https://github.com/ohhsodead/modio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 
 SDKs for developement on PS3
 
