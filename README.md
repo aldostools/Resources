@@ -43,3 +43,4 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 - [SDK-Mirror](https://github.com/PS3SDK-Misc/SDK-Mirror): Mirrored and re-packaged pre-compiled toolchains from various authors.
 - [SDK-Build](https://github.com/PS3SDK-Misc/SDK-Build): Automated builds of the PSL1GHT toolchain, with the psdk variant meant as a re-creation of PSDK3v2 for Linux (using gcc 4), and the ps3dev-latest variant being a working build of latest ps3dev sources (using an older commit to PSL1GHT, since newer commits seems to break builds).
  
+[PSL1GHT SDK](https://github.com/bucanero/psl1ghtv2_ports) alternative fork based on [PSDK3v2](https://github.com/Estwald/PSDK3v2) and additions by [@bucanero](https://github.com/bucanero?tab=repositories)
