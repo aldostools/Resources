@@ -14,17 +14,19 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
  
 # Essential Tools for PS3
 * [Apollo Save Tool](https://store.brewology.com/ahomebrew.php?brewid=321) 
-* [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152) 
- 
+* [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152)
+* [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
+
 # Modding Tools
 * [Modio](https://github.com/ohhsodead/modio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
-* [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3)
+* [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3
+* [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
  
 # Firmware Tools for PS3
 * [PS3HEN @ ps3xploit.com](https://ps3xploit.com) - Homebrew Enabler for *all* PS3 models (4.82,4.84-4.88)
 * [BGToolset @ ps3xploit.net](https://ps3xploit.net/bgtoolset/) - CFW Patches for CFW compatible models (4.80-4.88)
-* [EvilNat's CFW 4.88 Cobra 8.3](https://www.brewology.com/?p=4627) - Latest CFW for PS3
+* [EvilNat's CFW 4.89 Cobra 8.3](https://www.brewology.com/?p=4661) - Latest CFW for PS3
 * [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
  
