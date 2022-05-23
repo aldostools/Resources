@@ -7,9 +7,10 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 Additional resources for webMAN MOD
 * [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_Psx-Place_Community_Edition_unofficial_beta-20220315.pkg)
 * [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)
-* [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)
 * [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)
+* [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)
 * [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.41/ps3netsrv_20220421.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]
+* [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]
 * [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)
 * [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)
 
@@ -39,6 +40,7 @@ Additional resources for webMAN MOD
 * [EvilNat's CFW 4.89 Cobra 8.3](https://www.brewology.com/?p=4661) - Latest CFW for PS3
 * [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
+* [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/)
  
 # Online Tools & Databases
 * [PS3 Game Updates](https://ps3.aldostools.org/updates.html)
