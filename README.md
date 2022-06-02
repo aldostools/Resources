@@ -44,10 +44,11 @@ Additional resources for webMAN MOD
  
 # Online Tools & Databases
 * [PS3 Game Updates](https://ps3.aldostools.org/updates.html)
-* [PS3 IRD Database](https://ps3.aldostools.org/ird.html)
+* [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
+* [PS3 IRD Database](https://ps3.aldostools.org/ird.html
+* [PSX LibCrypt Subchannel Data Database](https://ps3.aldostools.org/lsd.html)
 * [PS2 Config Database](https://ps3.aldostools.org/ps2config.html)
 * [PS3 Virtual Gamepad](https://pad.aldostools.org)
-* [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
  
 # SDKs for developement on PS3
