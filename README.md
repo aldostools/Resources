@@ -34,19 +34,24 @@ Additional resources for webMAN MOD
 * [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
  
 # Firmware Tools for PS3
-* [PS3HEN @ ps3xploit.com](https://ps3xploit.com) - Homebrew Enabler for *all* PS3 models (4.82,4.84-4.88)
+* [PS3HEN @ ps3xploit.com](https://ps3xploit.com) - Homebrew Enabler for *all* PS3 models (4.82,4.84-4.89)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Mirror](https://ps3addict.github.io/hen_installer)] [[Alt Mirror](https://ps3addict.github.io/alternate/)]
 * [BGToolset @ ps3xploit.net](https://ps3xploit.net/bgtoolset/) - CFW Patches for CFW compatible models (4.80-4.88)
 * [EvilNat's CFW 4.89 Cobra 8.3](https://www.brewology.com/?p=4661) - Latest CFW for PS3
 * [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
 * [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/)
+* TrueAncestor Tools by jjkkyu: [Edat Rebuilder](https://www.psx-place.com/resources/trueancestor-edat-rebuilder-by-jjkkyu.34/) /
+  [PKG Repacker](https://www.psx-place.com/resources/trueancestor-pkg-repacker-by-jjkkyu.31/) /
+  [SELF Resigner](https://www.psx-place.com/resources/trueancestor-self-resigner-by-jjkkyu.33/) /
+  [Backup Retailer](https://www.psx-place.com/threads/trueancestor-backup-retailer-v2-20.13317/)
+* [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools)  
  
 # Online Tools & Databases
 * [PS3 Game Updates](https://ps3.aldostools.org/updates.html)
 * [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
 * [PS3 IRD Database](https://ps3.aldostools.org/ird.html)
-* [PSX LibCrypt Subchannel Data Database](https://ps3.aldostools.org/lsd.html)
+* [PSX LibCrypt Subchannels Data Database](https://ps3.aldostools.org/lsd.html)
 * [PS2 Config Database](https://ps3.aldostools.org/ps2config.html)
 * [PS3 Virtual Gamepad](https://pad.aldostools.org)
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
