@@ -28,7 +28,7 @@ Additional resources for webMAN MOD
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
 # Modding Tools
-* [Modio](https://github.com/ohhsodead/modio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
+* [NeoModsX](https://github.com/ohhsodead/neomodsx) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
 * [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3
 * [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
