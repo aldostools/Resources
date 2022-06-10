@@ -43,10 +43,11 @@ Additional resources for webMAN MOD
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
 * [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/)
-* TrueAncestor Tools by jjkkyu: [Edat Rebuilder](https://www.psx-place.com/resources/trueancestor-edat-rebuilder-by-jjkkyu.34/) /
-  [PKG Repacker](https://www.psx-place.com/resources/trueancestor-pkg-repacker-by-jjkkyu.31/) /
-  [SELF Resigner](https://www.psx-place.com/resources/trueancestor-self-resigner-by-jjkkyu.33/) /
-  [Backup Retailer](https://www.psx-place.com/threads/trueancestor-backup-retailer-v2-20.13317/)
+* TrueAncestor Tools by jjkkyu: [Edat Rebuilder](https://uptobox.com/u4t8olwg2rrt) /
+  [PKG Repacker](https://uptobox.com/j4bvngpk5zgg) /
+  [SELF Resigner](https://uptobox.com/ya9mhbjg1t4z) /
+  [Backup Retailer](https://uptobox.com/bd9bt6u82i59) /
+  [CLASSIC Reviver](https://uptobox.com/zn6wogtd0ulk)
 * [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools)  
  
 # Online Tools & Databases
