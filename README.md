@@ -32,6 +32,7 @@ Additional resources for webMAN MOD
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
 * [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3
 * [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
+* [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
  
 # Firmware Tools for PS3
 * [PS3HEN @ ps3xploit.com](https://ps3xploit.com) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82,4.84-4.89)
