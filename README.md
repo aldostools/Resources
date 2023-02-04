@@ -9,7 +9,7 @@ Additional resources for webMAN MOD
 * [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)
 * [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)
 * [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)
-* [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.42/ps3netsrv_20220813.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]
+* [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.43/ps3netsrv_20220813.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]
 * [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]
 * [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)
 * [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)
@@ -37,7 +37,7 @@ Additional resources for webMAN MOD
 # Firmware Tools for PS3
 * [PS3HEN @ ps3xploit.me](https://ps3xploit.me) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82,4.84-4.89)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Mirror](https://ps3addict.github.io/hen_installer)] [[Alt Mirror](https://ps3addict.github.io/alternate/)]
-* [EvilNat's CFW 4.89 Cobra 8.3](https://www.brewology.com/?p=4661) - Latest CFW for PS3
+* [EvilNat's CFW 4.89.3 Cobra 8.4](https://www.brewology.com/?p=4692) - Latest CFW for PS3
 * [MAMBA 8.4](https://github.com/aldostools/Resources/releases/download/Addons/boot_mamba.pkg) / [Fake OFW](https://github.com/aldostools/Resources/releases/download/Addons/boot_fake_ofw.pkg) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
