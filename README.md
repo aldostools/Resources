@@ -35,10 +35,11 @@ Additional resources for webMAN MOD
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
  
 # Firmware Tools for PS3
-* [PS3HEN @ ps3xploit.me](https://ps3xploit.me) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82,4.84-4.89)
+* [PS3Xploit Flash Writer 4.90](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) - Use to allow your PS3 to install CFW 4.90
+* [PS3HEN](https://www.psx-place.com/threads/ps3hen-v3-1-2-4-90-placeholder-coming-soon.39771/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82,4.84-4.90)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Mirror](https://ps3addict.github.io/hen_installer)] [[Alt Mirror](https://ps3addict.github.io/alternate/)]
-* [EvilNat's CFW 4.89.3 Cobra 8.4](https://www.brewology.com/?p=4692) - Latest CFW for PS3
-* [MAMBA 8.4](https://github.com/aldostools/Resources/releases/download/Addons/boot_mamba.pkg) / [Fake OFW](https://github.com/aldostools/Resources/releases/download/Addons/boot_fake_ofw.pkg) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
+* [EvilNat's CFW 4.90.1 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3
+* [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Addons) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Addons) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
