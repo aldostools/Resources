@@ -35,6 +35,7 @@ Additional resources for webMAN MOD
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
  
 # Firmware Tools for PS3
+* [BGToolset](http://www.ps3toolset.com/) - Set of online tools to jailbreak PS3
 * [PS3Xploit Flash Writer 4.90](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [Mirror](https://ps3addict.github.io/writer/) [Mirror](https://evilnat.github.io/flashwriter/)
 * [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82,4.84-4.90)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Mirror](https://ps3addict.github.io/hen_installer)] [[Alt Mirror](https://ps3addict.github.io/alternate/)]
