@@ -23,8 +23,9 @@ Additional resources for webMAN MOD
 * [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
  
 # Essential Tools for PS3
-* [Apollo Save Tool](https://store.brewology.com/ahomebrew.php?brewid=321) 
-* [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152)
+* [Apollo Save Tool](https://store.brewology.com/ahomebrew.php?brewid=321) - Save-game & Trophy Manager
+* [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152) - Cheat database & engine
+* [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
 # Modding Tools
@@ -39,7 +40,7 @@ Additional resources for webMAN MOD
 * [PS3Xploit Flash Writer 4.90](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [Mirror](https://ps3addict.github.io/writer/) [Mirror](https://evilnat.github.io/flashwriter/)
 * [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82,4.84-4.90)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Mirror](https://ps3addict.github.io/hen_installer)] [[Alt Mirror](https://ps3addict.github.io/alternate/)]
-* [EvilNat's CFW 4.90.1 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3
+* [EvilNat's CFW 4.90 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3
 * [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Addons) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Addons) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
