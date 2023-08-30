@@ -4,15 +4,15 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 9600 covers for PS3 retail games, PKG & homebrews
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 6500 covers for PSX and PS2 games
 
-Additional resources for webMAN MOD
-🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg)
-🚀 [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)
-🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)
-🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)
-💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20220813.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]
-🧰 [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]
-📘 [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)
-💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)
+Additional resources for webMAN MOD<br>
+🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg)<br>
+🚀 [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
+🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)<br>
+🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)<br>
+💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20220813.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
+🧰 [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]<br>
+📘 [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)<br>
+💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)<br>
 
 # Backup Managers for PS3
 * [webMAN MOD](https://github.com/aldostools/webMAN-MOD/releases)
