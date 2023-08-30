@@ -5,14 +5,14 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 6500 covers for PSX and PS2 games
 
 Additional resources for webMAN MOD
-* [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg)
-* [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)
-* [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)
-* [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)
-* [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20220813.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]
-* [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]
-* [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)
-* [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)
+🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg)
+🚀 [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)
+🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)
+🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)
+💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20220813.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]
+🧰 [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]
+📘 [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)
+💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)
 
 # Backup Managers for PS3
 * [webMAN MOD](https://github.com/aldostools/webMAN-MOD/releases)
@@ -37,7 +37,7 @@ Additional resources for webMAN MOD
  
 # Firmware Tools for PS3
 * [BGToolset](http://www.ps3toolset.com/) - Set of online tools to jailbreak PS3 4.75-4.90 CEX/DEX/OFW/HFW/CFW
-* [PS3Xploit Flash Writer 4.90](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [Mirror](https://ps3addict.github.io/writer/) [Mirror](https://evilnat.github.io/flashwriter/)
+* [PS3Xploit Flash Writer 4.90](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [ [Mirror](https://ps3addict.github.io/writer/) ] [ [Mirror](https://evilnat.github.io/flashwriter/) ] [ [Mirror](https://aldostools.github.io/flashwriter/) ]
 * [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82, 4.84-4.90)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Mirror](https://ps3addict.github.io/hen_installer)] [[Alt Mirror](https://ps3addict.github.io/alternate/)]
 * [EvilNat's CFW 4.90 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3
