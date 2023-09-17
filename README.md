@@ -4,7 +4,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 9600 covers for PS3 retail games, PKG & homebrews
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 6500 covers for PSX and PS2 games
 
-Additional resources for webMAN MOD<br>
+### Additional resources for webMAN MOD
 🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg)<br>
 🚀 [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
 🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)<br>
@@ -14,7 +14,7 @@ Additional resources for webMAN MOD<br>
 📘 [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)<br>
 💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)<br>
 
-# Backup Managers for PS3
+### Backup Managers for PS3
 * [webMAN MOD](https://github.com/aldostools/webMAN-MOD/releases)
 * [IRISMAN](https://github.com/aldostools/IRISMAN/releases)
 * [ManaGunZ](https://github.com/Zarh/ManaGunZ/releases)
@@ -22,20 +22,20 @@ Additional resources for webMAN MOD<br>
 * [sMAN](https://store.brewology.com/ahomebrew.php?brewid=309)
 * [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
  
-# Essential Tools for PS3
+### Essential Tools for PS3
 * [Apollo Save Tool](https://store.brewology.com/ahomebrew.php?brewid=321) - Save-game & Trophy Manager
 * [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152) - Cheat database & engine
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
-# Modding Tools
+### Modding Tools
 * [Arisen Mods](https://github.com/ohhsodead/arisen-mods) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
 * [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3 [bin](https://netcheat.gamehacking.org/ncUpdater/ncUpdateDir.zip)
 * [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
  
-# Firmware Tools for PS3
+### Firmware Tools for PS3
 * [BGToolset](http://www.ps3toolset.com/) - Set of online tools to jailbreak PS3 4.75-4.90 CEX/DEX/OFW/HFW/CFW
 * [PS3Xploit Flash Writer 4.90](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [ [Mirror](https://ps3addict.github.io/writer/) ] [ [Mirror](https://evilnat.github.io/flashwriter/) ] [ [Mirror](https://aldostools.github.io/flashwriter/) ]
 * [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82, 4.84-4.90)
@@ -53,7 +53,7 @@ Additional resources for webMAN MOD<br>
   [CLASSIC Reviver](https://uptobox.com/zn6wogtd0ulk)
 * [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools)  
  
-# Online Tools & Databases
+### Online Tools & Databases
 * [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/PS2CONFIG.pkg)
 * [PS3 Game Updates](https://ps3.aldostools.org/updates.html)
 * [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
@@ -64,9 +64,7 @@ Additional resources for webMAN MOD<br>
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
 * [PS3 Error Codes](https://www.psdevwiki.com/ps3/Error_Codes#Generic_errors)
  
-# SDKs for developement on PS3
-[@rhynec](https://github.com/rhynec?tab=repositories) has prepared two github repos which provide pre-compiled PSL1GHT toolchains:
-- [SDK-Mirror](https://github.com/PS3SDK-Misc/SDK-Mirror): Mirrored and re-packaged pre-compiled toolchains from various authors.
-- [SDK-Build](https://github.com/PS3SDK-Misc/SDK-Build): Automated builds of the PSL1GHT toolchain, with the psdk variant meant as a re-creation of PSDK3v2 for Linux (using gcc 4), and the ps3dev-latest variant being a working build of latest ps3dev sources (using an older commit to PSL1GHT, since newer commits seems to break builds).
- 
-[PSL1GHT SDK](https://github.com/bucanero/psl1ghtv2_ports) alternative fork based on [PSDK3v2](https://github.com/Estwald/PSDK3v2) and additions by [@bucanero](https://github.com/bucanero?tab=repositories)
+### Pre-compiled Development SDKs
+* [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
+* [NixSDK](https://github.com/MiscPS3/NixSDK/releases) - A recreation of Estwald's PSDK3v2 distribution for Linux systems, with automated builds.
+* [PS3Dev](https://github.com/bucanero/ps3toolchain/releases) - Builds of the almost current PSL1GHT toolchain/library projects from the [ps3dev](https://github.com/ps3dev) developers, prepared by bucanero.
