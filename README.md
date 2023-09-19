@@ -2,7 +2,7 @@
 Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
  
 * [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 9600 covers for PS3 retail games, PKG & homebrews
-* [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 6500 covers for PSX and PS2 games
+* [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 9500 covers for PSX and +10,100 covers for PS2 games
 
 ### Additional resources for webMAN MOD
 🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg)<br>
@@ -53,7 +53,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PSP2PS3](https://www.psx-place.com/threads/playing-playstation-portable-psp-games-on-your-ps3.38830/) - Convert PSP UMD images into a PSP minis / PSP resmasters for PS3
 * [PSP Classics GUI](https://www.psx-place.com/resources/ps2-classics-gui.638/) - Convert PS2 disc images into a PS2 Classics PKG for PS3
 * [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/) - Set of PC tools, converters and viewers for PS3
-* [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools)
+* [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files.
 * **TrueAncestor Tools** by jjkkyu: [Edat Rebuilder](https://uptobox.com/u4t8olwg2rrt) /
   [PKG Repacker](https://uptobox.com/j4bvngpk5zgg) /
   [SELF Resigner](https://uptobox.com/ya9mhbjg1t4z) /
