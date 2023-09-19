@@ -45,14 +45,21 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
-* [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/)
-* TrueAncestor Tools by jjkkyu: [Edat Rebuilder](https://uptobox.com/u4t8olwg2rrt) /
+
+### Tools & Converters
+* [webMAN Classics Maker](https://www.psx-place.com/threads/webman-classics-maker-v2-0-gui-release.30984/) - Create game icons on XMB mounted by webMAN MOD
+* [PKG Linker](https://www.psx-place.com/resources/pkg-linker-2-0-serve-packages-to-your-ps3-han-cfw.640/) - Install packages directly from PC
+* [pop-fe-ps3](https://github.com/sahlberg/pop-fe/actions) - Convert PS1 disc images into a PS1 Classics PKG for PS3
+* [PSP2PS3](https://www.psx-place.com/threads/playing-playstation-portable-psp-games-on-your-ps3.38830/) - Convert PSP UMD images into a PSP minis / PSP resmasters for PS3
+* [PSP Classics GUI](https://www.psx-place.com/resources/ps2-classics-gui.638/) - Convert PS2 disc images into a PS2 Classics PKG for PS3
+* [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/) - Set of PC tools, converters and viewers for PS3
+* [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools)
+* **TrueAncestor Tools** by jjkkyu: [Edat Rebuilder](https://uptobox.com/u4t8olwg2rrt) /
   [PKG Repacker](https://uptobox.com/j4bvngpk5zgg) /
   [SELF Resigner](https://uptobox.com/ya9mhbjg1t4z) /
   [Backup Retailer](https://uptobox.com/bd9bt6u82i59) /
   [CLASSIC Reviver](https://uptobox.com/zn6wogtd0ulk)
-* [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools)  
- 
+
 ### Online Tools & Databases
 * [PS1 LibCrypt Subchannels Data Database](https://ps3.aldostools.org/lsd.html) [[LSD](https://ps3.aldostools.org/lsd.html)] / [[SBI](https://ps3.aldostools.org/sbi.html)]
 * [PS1 Config Database](https://ps3.aldostools.org/ps1config.html) - ps1_netemu External Configs
