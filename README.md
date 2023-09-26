@@ -5,13 +5,13 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 9500 covers for PSX and +10,100 covers for PS2 games
 
 ### Additional resources for webMAN MOD
-🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg)<br>
+🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg) [ [src](https://github.com/crystalct/RetroArch_PSX_CE) ]<br>
 🚀 [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
 🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)<br>
 🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)<br>
 💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20220813.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
 🧰 [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]<br>
-📘 [Documentation](https://github.com/aldostools/webMAN-MOD/wiki)<br>
+📘 [webMAN MOD Documentation](https://github.com/aldostools/webMAN-MOD/wiki) [ [wiki](https://github.com/aldostools/webMAN-MOD/wiki/%E2%80%A2-License) ]<br>
 💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)<br>
 
 ### Backup Managers for PS3
@@ -74,5 +74,8 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
  
 ### Pre-compiled Development SDKs
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
-* [NixSDK](https://github.com/MiscPS3/NixSDK/releases) - A recreation of Estwald's PSDK3v2 distribution for Linux systems, with automated builds.
+* [NixSDK](https://github.com/MiscPS3/NixSDK/releases) - A recreation of [Estwald's PSDK3v2](https://github.com/Estwald/PSDK3v2) distribution for Linux systems, with automated builds.
 * [PS3Dev](https://github.com/bucanero/ps3toolchain/releases) - Builds of the almost current PSL1GHT toolchain/library projects from the [ps3dev](https://github.com/ps3dev) developers, prepared by bucanero.
+#### Other SDKs
+* [PS3SDK](https://github.com/PS3SDK-Misc) - Alternative PS3-SDK binaries for different Linux distros
+* [PS1L1GHT](https://github.com/bucanero/PSL1GHT) - bucanero's for of the lightweight PlayStation 3 homebrew SDK
