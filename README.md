@@ -1,7 +1,7 @@
 # Resources
 Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
  
-* [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 9600 covers for PS3 retail games, PKG & homebrews
+* [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 9700 covers for PS3 retail games, PKG & homebrews
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 9500 covers for PSX and +10,100 covers for PS2 games
 
 ### Additional resources for webMAN MOD
@@ -52,7 +52,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PKG Linker](https://www.psx-place.com/resources/pkg-linker-2-0-serve-packages-to-your-ps3-han-cfw.640/) - Install packages directly from PC
 * [pop-fe-ps3](https://github.com/sahlberg/pop-fe/actions) - Convert PS1 disc images into a PS1 Classics PKG for PS3
 * [PSP2PS3](https://www.psx-place.com/threads/playing-playstation-portable-psp-games-on-your-ps3.38830/) - Convert PSP UMD images into a PSP minis / PSP resmasters for PS3
-* [PSP Classics GUI](https://www.psx-place.com/resources/ps2-classics-gui.638/) - Convert PS2 disc images into a PS2 Classics PKG for PS3
+* [PS2 Classics GUI](https://www.psx-place.com/resources/ps2-classics-gui.638/) - Convert PS2 disc images into a PS2 Classics PKG for PS3
 * [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/) - Set of PC tools, converters and viewers for PS3
 * [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files.
 
