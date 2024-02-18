@@ -67,7 +67,15 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PS3 Virtual Gamepad](https://pad.aldostools.org)
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
 * [PS3 Error Codes](https://www.psdevwiki.com/ps3/Error_Codes#Generic_errors)
- 
+
+### Other Useful Repositories
+* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
+* [Breowlogy](https://brewology.com) - Repository of homebrews for [PS3]](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
+* [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
+* [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
+* [Hosted Exploits Sites](https://all-exhost.github.io/) - Repository Sites with Hosted Exploits for PS4 & PS5
+* [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
+
 ### Pre-compiled Development SDKs
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
 * [NixSDK](https://github.com/MiscPS3/NixSDK/releases) - A recreation of [Estwald's PSDK3v2](https://github.com/Estwald/PSDK3v2) distribution for Linux systems, with automated builds.
