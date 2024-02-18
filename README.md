@@ -5,7 +5,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 9500 covers for PSX and +10,100 covers for PS2 games
 
 ### Additional resources for webMAN MOD
-🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg) [ [src](https://github.com/crystalct/RetroArch_PSX_CE) ]<br>
+🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg) [ [SRC](https://github.com/crystalct/RetroArch_PSX_CE) ]<br>
 🚀 [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
 🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)<br>
 🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)<br>
@@ -69,12 +69,12 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PS3 Error Codes](https://www.psdevwiki.com/ps3/Error_Codes#Generic_errors)
 
 ### Other Useful Repositories
+* [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
 * [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
-* [Breowlogy](https://brewology.com) - Repository of homebrews for [PS3]](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
+* [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
 * [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
-* [Hosted Exploits Sites](https://all-exhost.github.io/) - Repository Sites with Hosted Exploits for PS4 & PS5
-* [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
+* [All Hosted Exploits Sites](https://all-exhost.github.io/) - Repository Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN)
 
 ### Pre-compiled Development SDKs
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
