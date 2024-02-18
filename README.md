@@ -74,7 +74,8 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
 * [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
-* [All Hosted Exploits Sites](https://all-exhost.github.io/) - Repository Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN)
+* [All Hosted Exploits Sites](https://all-exhost.github.io/) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN)<br>
+  [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [kamaleon](https://kmeps4.site) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [karo](https://karo218.ir) | [ps4hen](ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive)
 
 ### Pre-compiled Development SDKs
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
