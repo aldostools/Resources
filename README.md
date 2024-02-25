@@ -1,7 +1,7 @@
 # Resources
 Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
  
-* [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 9700 covers for PS3 retail games, PKG & homebrews
+* [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 10,300 covers for PS3 retail games, PSN/PKG & homebrews
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 9500 covers for PSX and +10,100 covers for PS2 games
 
 ### Additional resources for webMAN MOD
