@@ -6,7 +6,8 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 
 ### Additional resources for webMAN MOD
 🎮 [RetroArch CE](https://github.com/aldostools/Resources/releases/download/RetroArch_CE/RetroArch_CE.pkg) [ [SRC](https://github.com/crystalct/RetroArch_PSX_CE) ]<br>
-🚀 [Launchers & Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
+🚀 [Launchers](https://github.com/aldostools/Resources/releases/tag/Launchers)<br>
+⭐ [Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
 🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)<br>
 🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)<br>
 💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20240210.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
@@ -74,8 +75,8 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
 * [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
-* [All Hosted Exploits Sites](https://all-exhost.github.io/) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
-  [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [kamaleon](https://kmeps4.site) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [karo](https://karo218.ir) | [ps4hen](ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://magnumhost.my.id/)
+* [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
+  [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [kamaleon](https://kmeps4.site) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [karo](https://karo218.ir) | [ps4hen](ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://magnumhost.my.id/) | [zecoxao](https://zecoxao.github.io)
 
 ### Pre-compiled Development SDKs
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
