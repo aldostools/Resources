@@ -26,7 +26,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 ### Essential Tools for PS3
 * [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
 * [Apollo Save Tool](https://store.brewology.com/ahomebrew.php?brewid=321) - Save-game & Trophy Manager
-* [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152) - Cheat database & engine
+* [Artemis](https://store.brewology.com/ahomebrew.php?brewid=152) - Cheat database & engine for PS3 games
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
@@ -43,7 +43,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82, 4.84-4.90)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Alt Mirror](https://ps3addict.github.io/alternate/)] [[Mirror](https://aldostools.github.io/install-ps3hen/)]
 * [EvilNat's CFW 4.90 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3
-* [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Addons) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Addons) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
+* [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Payloads) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Payloads) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
@@ -76,7 +76,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
 * [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
-  [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [kamaleon](https://kmeps4.site) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [karo](https://karo218.ir) | [ps4hen](ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://magnumhost.my.id/) | [zecoxao](https://zecoxao.github.io)
+  [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [kamaleon](https://kmeps4.site) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [karo](https://karo218.ir) | [ps4hen](ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://magnumhost.my.id/) | [ps5xploit](https://ps5xploit.github.io)
 
 ### Pre-compiled Development SDKs
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
