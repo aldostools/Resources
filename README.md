@@ -41,7 +41,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PS3Xploit Flash Writer](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) for [HFW 4.90](https://www.psx-place.com/threads/hfw-4-90-1-hybrid-firmware.39758/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [ [Mirror](https://ps3addict.github.io/writer/) ] [ [Mirror](https://evilnat.github.io/flashwriter/) ] [ [Mirror](https://aldostools.github.io/flashwriter/) ]
 * [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.82, 4.84-4.90)
 * [AutoHEN @ ps3addict.github.io](https://ps3addict.github.io/autohen) - Alternative installer for Homebrew Enable  [[Alt Mirror](https://ps3addict.github.io/alternate/)] [[Mirror](https://aldostools.github.io/install-ps3hen/)]
-* [EvilNat's CFW 4.90 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-90-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3
+* [EvilNat's CFW 4.91 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-91-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3
 * [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Payloads) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Payloads) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
