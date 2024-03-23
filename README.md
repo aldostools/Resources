@@ -40,7 +40,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [BGToolset](http://www.ps3toolset.com/) - Set of online tools to jailbreak PS3 4.75-4.91 CEX/DEX/OFW/HFW/CFW
 * [PS3Xploit Flash Writer](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) for [HFW 4.90](https://www.psx-place.com/threads/hfw-4-90-1-hybrid-firmware.39758/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [ [Mirror](https://ps3addict.github.io/writer/) ] [ [Mirror](https://evilnat.github.io/flashwriter/) ] [ [Mirror](https://aldostools.github.io/flashwriter/) ]
 * [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91)
-* [ps3addict.github.io](https://ps3addict.github.io/alternate) - Alternative installer for Homebrew Enable  [[Mirror](https://aldostools.github.io/install-ps3hen/)]
+* [ps3addict.github.io](https://ps3addict.github.io/alternate) - Alternative installer for Homebrew Enable  [[Mirror](https://aldostools.github.io/install-ps3hen/)] [[Auto HEN](https://ps3addict.github.io/autohen)] [[Auto HEN SCZ](https://videogamesscz.github.io/henauto491)]
 * [EvilNat's CFW 4.91 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-91-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
