@@ -61,11 +61,11 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PS1 Config Database](https://ps3.aldostools.org/ps1config.html) - ps1_netemu External Configs
 * [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/PS2CONFIG.pkg)
 * [PS3 Title IDs](https://ps3.aldostools.org/titleid.html)
-* [PS3 Game Updates](https://ps3.aldostools.org/updates.html)
+* [PS3 Game Updates](http://ps3.aldostools.org/updates.html)
 * [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
 * [PS3 IRD Database](https://ps3.aldostools.org/ird.html)
 * [PS3 DKEY Database](https://ps3.aldostools.org/dkey.html)
-* [PS3 Virtual Gamepad](https://pad.aldostools.org)
+* [PS3 Virtual Gamepad](http://pad.aldostools.org)
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
 * [PS3 Error Codes](https://www.psdevwiki.com/ps3/Error_Codes#Generic_errors)
 
