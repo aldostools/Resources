@@ -30,7 +30,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
 ### Modding Tools
-* [Arisen Mods](https://github.com/ohhsodead/arisen-mods) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
+* [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
 * [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3 [bin](https://netcheat.gamehacking.org/ncUpdater/ncUpdateDir.zip)
 * [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
