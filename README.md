@@ -29,7 +29,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
-### Modding Tools
+### Modding Tools for PS3
 * [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
 * [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3 [bin](https://netcheat.gamehacking.org/ncUpdater/ncUpdateDir.zip)
@@ -69,20 +69,24 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
 * [PS3 Error Codes](https://www.psdevwiki.com/ps3/Error_Codes#Generic_errors)
 
-### Other Useful Repositories
-* [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
-* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
-* [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
-* [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
-* [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
-* [PPPwnUI](https://github.com/aldostools/PPPwnUI) - PPPwnUI adds an UI to the PS4 exploit [PPPwn](https://github.com/TheOfficialFloW/PPPwn) created by @TheOfficialFloW.
-* [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
-  [kamaleon](https://kmeps4.site) [pppwn](https://kmeps4.site/pppwn) | [karo](https://karo218.ir) [pppwn](https://karo218.ir/1100/) | [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [ps4hen](https://ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io)
-
-### Pre-compiled Development SDKs
+### Pre-compiled Development SDKs for PS3
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
 * [NixSDK](https://github.com/MiscPS3/NixSDK/releases) - A recreation of [Estwald's PSDK3v2](https://github.com/Estwald/PSDK3v2) distribution for Linux systems, with automated builds.
 * [PS3Dev](https://github.com/bucanero/ps3toolchain/releases) - Builds of the almost current PSL1GHT toolchain/library projects from the [ps3dev](https://github.com/ps3dev) developers, prepared by bucanero.
 #### Other SDKs
 * [PS3SDK](https://github.com/PS3SDK-Misc) - Alternative PS3-SDK binaries for different Linux distros
 * [PS1L1GHT](https://github.com/bucanero/PSL1GHT) - bucanero's for of the lightweight PlayStation 3 homebrew SDK
+
+### Other Useful Repositories for PS3
+* [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
+* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
+* [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
+* [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
+
+### Stuff for PS4 & PS5 Scenes
+* [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
+* [PPPwnUI](https://github.com/aldostools/PPPwnUI) - PPPwnUI adds an UI to the PS4 exploit [PPPwn](https://github.com/TheOfficialFloW/PPPwn) created by @TheOfficialFloW.
+* [GoldHEN](https://github.com/goldhen) - HEN exploit for PS4 by [SiSTR0](https://github.com/SiSTR0).
+* [etaHEN](https://github.com/LightningMods/etaHEN) - HEN exploit for PS5 by [LightningMods](https://github.com/LightningMods) / [ItemzFlow](https://github.com/LightningMods/itemzflow) for PS4 & PS5
+* [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
+  [kamaleon](https://kmeps4.site) [pppwn](https://kmeps4.site/pppwn) | [karo](https://karo218.ir) [pppwn](https://karo218.ir/1100/) | [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [ps4hen](https://ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io)
