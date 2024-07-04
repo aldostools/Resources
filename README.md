@@ -84,9 +84,11 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
 
 ### Stuff for PS4 & PS5 Scenes
-* [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
-* [PPPwnUI](https://github.com/aldostools/PPPwnUI) - PPPwnUI adds an UI to the PS4 exploit [PPPwn](https://github.com/TheOfficialFloW/PPPwn) created by @TheOfficialFloW.
-* [GoldHEN](https://github.com/goldhen) - HEN exploit for PS4 by [SiSTR0](https://github.com/SiSTR0).
+* [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5: [ItemzFlow](https://pkg-zone.com/details/ITEM00001) | [PS4 Xplorer 2.0](https://pkg-zone.com/details/LAPY20009) | [PS5 Xplorer](https://pkg-zone.com/details/LAPY20011) | [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)
+* [PPPwnUI](https://github.com/aldostools/PPPwnUI) - PPPwnUI adds an UI to the PS4 exploit [PPPwn](https://github.com/TheOfficialFloW/PPPwn) created by [Andy Nguyen](https://github.com/TheOfficialFloW)
+* [GoldHEN](https://github.com/goldhen) - Advanced HEN exploit for PS4 5.05, 6.71-6.72, 9.00, 9.60, 10.00-10.01, 11.00 by [SiSTR0](https://github.com/SiSTR0)
+* [PS4-HEN-PPPwn-VTX](https://github.com/EchoStretch/ps4-hen-vtx/releases) - HEN exploit for PS4 7.55 to 11.00 by [EchoStretch](https://github.com/EchoStretch)
 * [etaHEN](https://github.com/LightningMods/etaHEN) - HEN exploit for PS5 by [LightningMods](https://github.com/LightningMods) / [ItemzFlow](https://github.com/LightningMods/itemzflow) for PS4 & PS5
+* [ps5-payload-dev](https://github.com/orgs/ps5-payload-dev/repositories) - PS5 payloads by [John Törnblom](https://github.com/john-tornblom)
 * [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
   [kamaleon](https://kmeps4.site) [pppwn](https://kmeps4.site/pppwn) | [karo](https://karo218.ir) [pppwn](https://karo218.ir/1100/) | [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [ps4hen](https://ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io)
