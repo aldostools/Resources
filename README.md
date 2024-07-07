@@ -9,7 +9,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 🚀 [Launchers](https://github.com/aldostools/Resources/releases/tag/Launchers) & [Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
 🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)<br>
 🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)<br>
-💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20240210.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
+💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.46/ps3netsrv_20240707.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
 🧰 [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]<br>
 📘 [webMAN MOD Documentation](https://github.com/aldostools/webMAN-MOD/wiki) [ [wiki](https://github.com/aldostools/webMAN-MOD/wiki/%E2%80%A2-License) ]<br>
 💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)<br>
@@ -59,7 +59,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 ### Online Tools & Databases
 * [PS1 LibCrypt Subchannels Data Database](https://ps3.aldostools.org/lsd.html) [[LSD](https://ps3.aldostools.org/lsd.html)] / [[SBI](https://ps3.aldostools.org/sbi.html)]
 * [PS1 Config Database](https://ps3.aldostools.org/ps1config.html) - ps1_netemu External Configs
-* [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/PS2CONFIG.pkg)
+* [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.46/PS2CONFIG.pkg)
 * [PS3 Title IDs](https://ps3.aldostools.org/titleid.html)
 * [PS3 Game Updates](http://ps3.aldostools.org/updates.html)
 * [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
