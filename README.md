@@ -23,25 +23,28 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
  
 ### Essential Tools for PS3
-* [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
 * [Apollo Save Tool PS3](https://store.brewology.com/ahomebrew.php?brewid=321) - Save-game & Trophy Manager
 * [Artemis PS3](https://store.brewology.com/ahomebrew.php?brewid=291) - Cheat database & engine for PS3 games
+* [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
 ### Modding Tools for PS3
 * [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
-* [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3 [bin](https://netcheat.gamehacking.org/ncUpdater/ncUpdateDir.zip)
 * [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
+* [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3 [bin](https://netcheat.gamehacking.org/ncUpdater/ncUpdateDir.zip)
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
 
 ### Firmware Tools for PS3
-* [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91)
+* [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.91
 * [BGToolset](http://www.ps3toolset.com/) - Set of online tools to enable CFW installation on PS3 4.75-4.91 CEX/DEX/OFW/HFW/CFW
-* [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
+* [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
 * [ps3addict.github.io](https://ps3addict.github.io/alternate) - Alternative installer for Homebrew Enable  [[Mirror](https://aldostools.github.io/install-ps3hen/)] [[Auto HEN](https://ps3addict.github.io/autohen)] [[Auto HEN SCZ](https://videogamesscz.github.io/henauto491)]
+
+#### Custom Firmware
 * [EvilNat's CFW 4.91.2 Cobra 8.5](https://www.psx-place.com/threads/cfw-4-91-2-evilnat-cobra-8-5-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
+* [Custom Firmware MODs](https://github.com/aldostools/Resources/releases/MODS) - Packages to customize CFW Evilnat
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Payloads) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Payloads) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
