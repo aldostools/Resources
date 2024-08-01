@@ -9,7 +9,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 🚀 [Launchers](https://github.com/aldostools/Resources/releases/tag/Launchers) & [Addons](https://github.com/aldostools/Resources/releases/tag/Addons)<br>
 🎨 [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)<br>
 🎲 [Resources for XMB Randomizer](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)<br>
-💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/ps3netsrv_20240210.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
+💻 [ps3netsrv](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv) for [[Windows](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.46/ps3netsrv_20240709.zip)] [[Linux](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Linux)] [[Android](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins/Android)] [[Other](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv/bins)]<br>
 🧰 [Misc tools](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/tools) / [pkg_custom](https://github.com/aldostools/webMAN-MOD/raw/master/_Projects_/updater/pkg_custom.exe) [[src](https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/pkglaunch/pypkg)]<br>
 📘 [webMAN MOD Documentation](https://github.com/aldostools/webMAN-MOD/wiki) [ [wiki](https://github.com/aldostools/webMAN-MOD/wiki/%E2%80%A2-License) ]<br>
 💲 [Funding the Project](https://donate.aldostools.org) via [PayPal](https://paypal.me/aldostools)<br>
@@ -23,25 +23,28 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
  
 ### Essential Tools for PS3
-* [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
 * [Apollo Save Tool PS3](https://store.brewology.com/ahomebrew.php?brewid=321) - Save-game & Trophy Manager
 * [Artemis PS3](https://store.brewology.com/ahomebrew.php?brewid=291) - Cheat database & engine for PS3 games
+* [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
-### Modding Tools
-* [Arisen Mods](https://github.com/ohhsodead/arisen-mods) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
+### Modding Tools for PS3
+* [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [CCAPI](https://store.brewology.com/ahomebrew.php?brewid=254) - ControlConsoleAPI (aka CCAPI) - API for PS3
-* [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3 [bin](https://netcheat.gamehacking.org/ncUpdater/ncUpdateDir.zip)
 * [Cutter](https://cutter.re/#features) - Free decompiler & debugger tool for PS3 files and other platforms
+* [NetCheatPS3](https://github.com/Dnawrkshp/NetCheatPS3) - Remote Cheating Tool for PS3 [bin](https://netcheat.gamehacking.org/ncUpdater/ncUpdateDir.zip)
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
- 
+
 ### Firmware Tools for PS3
-* [BGToolset](http://www.ps3toolset.com/) - Set of online tools to jailbreak PS3 4.75-4.91 CEX/DEX/OFW/HFW/CFW
-* [PS3Xploit Flash Writer](https://www.psx-place.com/threads/ps3xploit-flash-writer-4-90-hfw.39744/) for [HFW 4.90](https://www.psx-place.com/threads/hfw-4-90-1-hybrid-firmware.39758/) - Use to allow your PS3 to install [CFW 4.90](https://www.brewology.com/?p=4704) [ [Mirror](https://ps3addict.github.io/writer/) ] [ [Mirror](https://evilnat.github.io/flashwriter/) ] [ [Mirror](https://aldostools.github.io/flashwriter/) ]
-* [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91)
-* [ps3addict.github.io](https://ps3addict.github.io/alternate) - Alternative installer for Homebrew Enable  [[Mirror](https://aldostools.github.io/install-ps3hen/)]
-* [EvilNat's CFW 4.91 Cobra 8.4](https://www.psx-place.com/threads/cfw-4-91-evilnat-cobra-8-4-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
+* [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.91
+* [BGToolset](http://www.ps3toolset.com/) - Set of online tools to enable CFW installation on PS3 4.75-4.91 CEX/DEX/OFW/HFW/CFW
+* [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
+* [ps3addict.github.io](https://ps3addict.github.io/alternate) - Alternative installer for Homebrew Enable  [[Mirror](https://aldostools.github.io/install-ps3hen/)] [[Auto HEN](https://ps3addict.github.io/autohen)] [[Auto HEN SCZ](https://videogamesscz.github.io/henauto491)]
+
+#### Custom Firmware
+* [EvilNat's CFW 4.91.2 Cobra 8.5](https://www.psx-place.com/threads/cfw-4-91-2-evilnat-cobra-8-5-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
+* [Custom Firmware MODs](https://github.com/aldostools/Resources/releases/MODS) - Packages to customize CFW Evilnat
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
 * [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Payloads) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Payloads) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
@@ -59,28 +62,36 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 ### Online Tools & Databases
 * [PS1 LibCrypt Subchannels Data Database](https://ps3.aldostools.org/lsd.html) [[LSD](https://ps3.aldostools.org/lsd.html)] / [[SBI](https://ps3.aldostools.org/sbi.html)]
 * [PS1 Config Database](https://ps3.aldostools.org/ps1config.html) - ps1_netemu External Configs
-* [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.45/PS2CONFIG.pkg)
-* [PS3 Game Updates](https://ps3.aldostools.org/updates.html)
+* [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.46/PS2CONFIG.pkg)
+* [PS3 Title IDs](https://ps3.aldostools.org/titleid.html)
+* [PS3 Game Updates](http://ps3.aldostools.org/updates.html)
 * [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
 * [PS3 IRD Database](https://ps3.aldostools.org/ird.html)
 * [PS3 DKEY Database](https://ps3.aldostools.org/dkey.html)
-* [PS3 Virtual Gamepad](https://pad.aldostools.org)
+* [PS3 Virtual Gamepad](http://pad.aldostools.org)
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
 * [PS3 Error Codes](https://www.psdevwiki.com/ps3/Error_Codes#Generic_errors)
 
-### Other Useful Repositories
-* [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
-* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
-* [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
-* [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
-* [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5
-* [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
-  [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [kamaleon](https://kmeps4.site) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [karo](https://karo218.ir) | [ps4hen](ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io)
-
-### Pre-compiled Development SDKs
+### Pre-compiled Development SDKs for PS3
 * [MirrorSDK](https://github.com/MiscPS3/MirrorSDK/releases) - Re-packaged distributions of classic, publicly available SDKs for PS3 development.
 * [NixSDK](https://github.com/MiscPS3/NixSDK/releases) - A recreation of [Estwald's PSDK3v2](https://github.com/Estwald/PSDK3v2) distribution for Linux systems, with automated builds.
 * [PS3Dev](https://github.com/bucanero/ps3toolchain/releases) - Builds of the almost current PSL1GHT toolchain/library projects from the [ps3dev](https://github.com/ps3dev) developers, prepared by bucanero.
 #### Other SDKs
 * [PS3SDK](https://github.com/PS3SDK-Misc) - Alternative PS3-SDK binaries for different Linux distros
 * [PS1L1GHT](https://github.com/bucanero/PSL1GHT) - bucanero's for of the lightweight PlayStation 3 homebrew SDK
+
+### Other Useful Repositories for PS3
+* [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
+* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
+* [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
+* [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
+
+### Stuff for PS4 & PS5 Scenes
+* [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5: [ItemzFlow](https://pkg-zone.com/details/ITEM00001) | [PS4 Xplorer 2.0](https://pkg-zone.com/details/LAPY20009) | [PS5 Xplorer](https://pkg-zone.com/details/LAPY20011) | [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)
+* [PPPwnUI](https://github.com/aldostools/PPPwnUI) - PPPwnUI adds an UI to the PS4 exploit [PPPwn](https://github.com/TheOfficialFloW/PPPwn) created by [Andy Nguyen](https://github.com/TheOfficialFloW)
+* [GoldHEN](https://github.com/goldhen) - Advanced HEN exploit for PS4 5.05, 6.71-6.72, 9.00, 9.60, 10.00-10.01, 11.00 by [SiSTR0](https://github.com/SiSTR0)
+* [PS4-HEN-PPPwn-VTX](https://github.com/EchoStretch/ps4-hen-vtx/releases) - HEN exploit for PS4 7.55 to 11.00 by [EchoStretch](https://github.com/EchoStretch)
+* [etaHEN](https://github.com/LightningMods/etaHEN) - HEN exploit for PS5 by [LightningMods](https://github.com/LightningMods) / [ItemzFlow](https://github.com/LightningMods/itemzflow) for PS4 & PS5
+* [ps5-payload-dev](https://github.com/orgs/ps5-payload-dev/repositories) - PS5 payloads by [John Törnblom](https://github.com/john-tornblom)
+* [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
+  [kamaleon](https://kmeps4.site) [pppwn](https://kmeps4.site/pppwn) | [karo](https://karo218.ir) [pppwn](https://karo218.ir/1100/) | [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [ps4hen](https://ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io)
