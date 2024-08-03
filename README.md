@@ -37,10 +37,10 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
 
 ### Firmware Tools for PS3
-* [ps3xploit.me](https://ps3xploit.me/) - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.91
-* [BGToolset](http://www.ps3toolset.com/) - Set of online tools to enable CFW installation on PS3 4.75-4.91 CEX/DEX/OFW/HFW/CFW
+* [ps3xploit.me](https://ps3xploit.me/) - PS3HEN - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.91
+* [ps3toolset.com](http://www.ps3toolset.com/) - BGToolset - Set of online tools to enable CFW installation on PS3 4.75-4.91 CEX/DEX/OFW/HFW/CFW
 * [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
-* [ps3addict.github.io](https://ps3addict.github.io/alternate) - Alternative installer for Homebrew Enable  [[Mirror](https://aldostools.github.io/install-ps3hen/)] [[Auto HEN](https://ps3addict.github.io/autohen)] [[Auto HEN SCZ](https://videogamesscz.github.io/henauto491)]
+* [AutoHEN](https://aldostools.github.io/install-ps3hen) - Alternative installer for Homebrew Enabler [[Mirror](https://ps3addict.github.io/alternate)] [[lmn7's Auto HEN](https://ps3addict.github.io/autohen)] [[Auto HEN SCZ](https://videogamesscz.github.io/henauto491)]
 
 #### Custom Firmware
 * [EvilNat's CFW 4.91.2 Cobra 8.5](https://www.psx-place.com/threads/cfw-4-91-2-evilnat-cobra-8-5-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
@@ -69,6 +69,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [PS3 IRD Database](https://ps3.aldostools.org/ird.html)
 * [PS3 DKEY Database](https://ps3.aldostools.org/dkey.html)
 * [PS3 Virtual Gamepad](http://pad.aldostools.org)
+* [multiMAN Themes Database](https://ps3.aldostools.org/mm.html)
 * [webMAN Web Commands](https://github.com/aldostools/webMAN-MOD/wiki/Web-Commands)
 * [PS3 Error Codes](https://www.psdevwiki.com/ps3/Error_Codes#Generic_errors)
 
