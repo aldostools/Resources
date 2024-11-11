@@ -1,0 +1,57 @@
+Cfg file should be 256 (0x100) bytes. Custom data is loaded at 0x341168 of emu memory, first 16 bytes of config is cfg_info.
+That cfg_info is read by emulator to figure out game hash, config data offset, and commands count.
+It is IMPORTANT to remember that offset 0x00000000 in config file is 0x00341168 in emu memory.
+
+FIRST EXAMPLE (SLES_534.06):
+
+             |         hash            | pointer to config data |    count    |
+0x341168 --> | 00 00 00 94 49 B1 19 D5 |      00 34 11 78       | 00 00 00 01 | <-- or more
+
+Pointer to config should be always the same for us, unless you want it different and have idea what are you doing.
+But there is really no point in messing with this value.
+
+
+Here is where things getting complicated, new format gonna be hard to understand at first. 
+Below example is for config 0x07 which use data pointer inside emu. Config data starts at 0x341178 which is 0x10 in cfg.
+Example is for single count config for now. Every single command info takes 0x18 bytes. Data is dependent on command.
+
+             |          cmd            |  cmd 0x07 data pointer  |         align           |
+0x341178 --> | 00 00 00 07 00 00 00 00 | 00 00 00 00 00 34 11 90 | 00 00 00 00 00 00 00 00 |
+
+Command 0x07 use a lot of data, This data is found using pointer from command. We need to supply it in our cfg.
+Offset 0x341190 is offset 0x28 in our config. 
+
+0x341190 --> Command 0x07 data (for data descrition check wiki).
+             80 00 00 00 FF FF FF FF  00 00 00 00 40 00 00 01
+             00 00 00 00 FF FF FF FF  00 00 00 00 80 00 03 3C
+
+
+SECOND EXAMPLE (SLUS_210.07):
+Simple config with EE math accuracy improvement. Command don't use extended data, only single 32 bit EE offset. 
+
+             |         hash            | pointer to config data |    count    |
+0x341168 --> | 00 00 00 14 E9 15 B9 FD |      00 34 11 78       | 00 00 00 01 | <-- or more
+
+Data:
+             |          cmd            |  EE offset  |               align                 |
+0x341178 --> | 00 00 00 0C 00 00 00 00 | 00 10 41 24 | 00 00 00 00 00 00 00 00 00 00 00 00 |
+
+Full cfg looks like this:
+
+      00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+	  
+0x00: 00 00 00 14 E9 15 B9 FD 00 34 11 78 00 00 00 01
+0x10: 00 00 00 0C 00 00 00 00 00 10 41 24 00 00 00 00
+0x20: 00 00 00 00 00 00 00 00
+
+next bytes are filled up to 0xFF offset with all zeros.
+
+
+
+For config explanation check: https://www.psdevwiki.com/ps3/PS2_Emulation/PS2_Config_Commands#PS2_Gxemu_Commands
+More info will be added soon, hopefully all commands plus multi count cmds will be covered in near future.
+
+For game hashes visit: https://www.psdevwiki.com/ps3/PS2_Emulation/PS2_Games_Masterlist
+Eventually if hash is not there use one of scripts posted here: https://www.psdevwiki.com/ps3/PS2_Emulation#ps2_title_brute_code
+
+More info about this system will be published on wiki pages at some point. 
