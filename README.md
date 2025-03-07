@@ -62,7 +62,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 ### Online Tools & Databases
 * [PS1 LibCrypt Subchannels Data Database](https://ps3.aldostools.org/lsd.html) [[LSD](https://ps3.aldostools.org/lsd.html)] / [[SBI](https://ps3.aldostools.org/sbi.html)]
 * [PS1 Config Database](https://ps3.aldostools.org/ps1config.html) - ps1_netemu External Configs
-* [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.46/PS2CONFIG.pkg)
+* [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.48/PS2CONFIG.pkg)
 * [PS3 Title IDs](https://ps3.aldostools.org/titleid.html)
 * [PS3 Game Updates](http://ps3.aldostools.org/updates.html)
 * [PS3 Artemis Codelist Database](https://ps3.aldostools.org/codelist.html)
