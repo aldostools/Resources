@@ -37,13 +37,14 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
 
 ### Firmware Tools for PS3
-* [ps3xploit.me](https://ps3xploit.me/) - PS3HEN - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.91) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.91
-* [ps3toolset.com](http://www.ps3toolset.com/) - BGToolset - Set of online tools to enable CFW installation on PS3 4.75-4.91 CEX/DEX/OFW/HFW/CFW
+* [ps3xploit.me](https://ps3xploit.me/) - PS3HEN - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.92) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.92
+* [ps3toolset.com](http://www.ps3toolset.com/) - BGToolset - Set of online tools to enable CFW installation on PS3 4.75-4.92 CEX/DEX/OFW/HFW/CFW
 * [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
-* [AutoHEN](https://aldostools.github.io/install-ps3hen) - Alternative installer for Homebrew Enabler [[Mirror](https://ps3addict.github.io/alternate)] [[lmn7's Auto HEN](https://ps3addict.github.io/autohen)] [[Auto HEN SCZ](https://videogamesscz.github.io/henauto491)]
+* [Auto HEN](https://aldostools.github.io/install-ps3hen) - Alternative installer for Homebrew Enabler by Coro [[Mirror](https://ps3addict.github.io/alternate)] [[lmn7's Auto HEN](https://ps3addict.github.io/autohen)]
+* [Auto HEN SCZ](aldostools.github.io/henauto492) - Alternative installer for Homebrew Enabler with Multifix by Videogames SCZ [[Auto HEN SCZ 4.91](https://videogamesscz.github.io/henauto491)]
 
 #### Custom Firmware
-* [EvilNat's CFW 4.91.2 Cobra 8.5](https://www.psx-place.com/threads/cfw-4-91-2-evilnat-cobra-8-5-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
+* [EvilNat's CFW 4.92 Cobra 8.5](https://www.psx-place.com/threads/cfw-4-92-evilnat-cobra-8-5-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
 * [Custom Firmware MODs](https://github.com/aldostools/Resources/releases/MODS) - Packages to customize CFW Evilnat
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
@@ -90,6 +91,7 @@ Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
 ### Stuff for PS4 & PS5 Scenes
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5: [ItemzFlow](https://pkg-zone.com/details/ITEM00001) | [PS4 Xplorer 2.0](https://pkg-zone.com/details/LAPY20009) | [PS5 Xplorer](https://pkg-zone.com/details/LAPY20011) | [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)
 * [PPPwnUI](https://github.com/aldostools/PPPwnUI) - PPPwnUI adds an UI to the PS4 exploit [PPPwn](https://github.com/TheOfficialFloW/PPPwn) created by [Andy Nguyen](https://github.com/TheOfficialFloW)
+* [PS5 Payloads]([https://github.com/aldostools/PS5-payloads](https://github.com/aldostools/PS5-Payloads/releases)) - Fork of PS5-Payloads Sender by @Master-s including the latest payloads
 * [GoldHEN](https://github.com/goldhen) - Advanced HEN exploit for PS4 5.05, 6.71-6.72, 9.00, 9.60, 10.00-10.01, 10.50, 10.70-10.71, 11.00 by [SiSTR0](https://github.com/SiSTR0)
 * [PS4-HEN-PPPwn-VTX](https://github.com/EchoStretch/ps4-hen-vtx/releases) - HEN exploit for PS4 7.55 to 11.00 by [EchoStretch](https://github.com/EchoStretch)
 * [etaHEN](https://github.com/LightningMods/etaHEN) - HEN exploit for PS5 by [LightningMods](https://github.com/LightningMods) / [ItemzFlow](https://github.com/LightningMods/itemzflow) for PS4 & PS5
