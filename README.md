@@ -1,5 +1,16 @@
 # Resources
-Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
+
+- [multiMAN Resources](https://github.com/aldostools/Resources/releases/tag/multiMAN)
+- [Web Applications](https://github.com/aldostools/Resources/releases/tag/WebApps)
+- [Mamba & PS3HEN Payloads](https://github.com/aldostools/Resources/releases/tag/Payloads)
+- [Launchers and tools for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Launchers)
+- [Themes for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Themes)
+- [Addons and tools for webMAN MOD](https://github.com/aldostools/Resources/releases/tag/Addons)
+- [XMB Randomizer Resources](https://github.com/aldostools/Resources/releases/tag/XMB_Randomizers)
+- [RetroArch CE](https://github.com/aldostools/Resources/releases/tag/RetroArch_CE)
+- [Covers Packs](https://github.com/aldostools/Resources/releases/tag/1.0)
+
+## Covers pack for webMAN MOD, sMAN, multiMAN, IRISMAN and ManaGunZ
  
 * [Covers for PS3 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS0000000000.pkg) - Over 10,300 covers for PS3 retail games, PSN/PKG & homebrews
 * [Covers for PSX/PS2 Games](https://github.com/aldostools/Resources/releases/download/1.0/EP0001-BLES80608_00-COVERS00000RETRO.pkg) - Over 9500 covers for PSX and +10,100 covers for PS2 games
