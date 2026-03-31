@@ -40,6 +40,7 @@
 * [Artemis PS3](https://store.brewology.com/ahomebrew.php?brewid=291) - Cheat database & engine for PS3 games
 * [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
+* [ezRemote Client](https://store.brewology.com/ahomebrew.php?brewid=332) - File Manager with FTP / SMB / NFS / WebDAV / HTTP protocols
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
 
 ### Modding Tools for PS3
@@ -50,32 +51,37 @@
 * [XELFViewer](https://github.com/horsicq/XELFViewer/releases) - ELF viewer & editor
 
 ### Firmware Tools for PS3
-* [ps3xploit.me](https://ps3xploit.me/) - PS3HEN - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.92) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.92
+* [ps3xploit.me](https://ps3xploit.me/) - PS3HEN 3.5.0 - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.93) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.93
 * [ps3toolset.com](http://www.ps3toolset.com/) - BGToolset - Set of online tools to enable CFW installation on PS3 4.75-4.92 CEX/DEX/OFW/HFW/CFW
 * [BadHTAB (fork)](https://github.com/esc0rtd3w/BadHTAB) / [BadHTAB](https://github.com/aomsin2526/BadHTAB) / [BadWDSD](https://github.com/aomsin2526/BadWDSD) + [qCFW](https://github.com/aomsin2526/Cobra-PS3-qCFW)
 * [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
 * [Flash Dumper](https://aldostools.github.io/flash-dumper)
+* [Auto HEN SCZ 4.93](https://videogamesscz.github.io/henauto493) - Alternative installer for Homebrew Enabler with Multifix by Videogames SCZ
 * [Auto HEN](https://aldostools.github.io/install-ps3hen) - Alternative installer for Homebrew Enabler by Coro [[Mirror](https://ps3addict.github.io/alternate)] [[lmn7's Auto HEN](https://ps3addict.github.io/autohen)]
-* [Auto HEN SCZ](aldostools.github.io/henauto492) - Alternative installer for Homebrew Enabler with Multifix by Videogames SCZ [[Auto HEN SCZ 4.91](https://videogamesscz.github.io/henauto491)]
 
 #### Custom Firmware
-* [EvilNat's CFW 4.92 Cobra 8.5](https://www.psx-place.com/threads/cfw-4-92-evilnat-cobra-8-5-cex-dex-pex-d-pex.39743/) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
+* [EvilNat's CFW 4.93 Cobra 8.5](https://www.psx-place.com/threads/4-93-evilnat-w-cobra-v8-5-cex-pex-d-pex.39743/) [PUPs](https://mega.nz/folder/JN9lSbZD#lTipeQNvQBQXvP5vDFj7ZQ) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
+* [BadWDSD for Slim 3xxx & Superslim: .uf2/Modchip + qCFW](https://github.com/aomsin2526/BadWDSD/releases) Based on Evilnat 4.92.2 PEX
 * [Custom Firmware MODs](https://github.com/aldostools/Resources/releases/MODS) - Packages to customize CFW Evilnat
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
-* [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Payloads) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Payloads) - Alternative LV2 Kernel Payloads based on [Cobra](https://github.com/Evilnat/Cobra-PS3)
+* [MAMBA 8.4](https://github.com/aldostools/Resources/releases/tag/Payloads) / [Fake OFW](https://github.com/aldostools/Resources/releases/tag/Payloads) - Alternative LV2 Kernel Payloads based on [Cobra & xai_plugin](https://gitlab.com/users/Evilnat/projects)
 * [Ultimate Toolbox by DeViL303](https://store.brewology.com/ahomebrew.php?brewid=326) - Collection of XMB and PS3 system modifications applied easily from XMB menus.
 
 ### Tools & Converters
 * [webMAN Classics Maker](https://www.psx-place.com/threads/webman-classics-maker-v2-0-gui-release.30984/) - Create game icons on XMB mounted by webMAN MOD
 * [PKG Linker](https://www.psx-place.com/resources/pkg-linker-2-0-serve-packages-to-your-ps3-han-cfw.640/) - Install packages directly from PC
 * [pop-fe-ps3](https://github.com/sahlberg/pop-fe/actions) - Convert PS1 disc images into a PS1 Classics PKG for PS3
+* [pop-fe2-ps3](https://github.com/sahlberg/pop-fe2/actions) - Convert PS2 disc images into a PS2 Classics PKG for PS3
 * [PSP2PS3](https://www.psx-place.com/threads/playing-playstation-portable-psp-games-on-your-ps3.38830/) - Convert PSP UMD images into a PSP minis / PSP resmasters for PS3
 * [PS2 Classics GUI](https://www.psx-place.com/resources/ps2-classics-gui.638/) - Convert PS2 disc images into a PS2 Classics PKG for PS3
 * [PS3 Tools Collection by aldostools](https://www.psx-place.com/resources/ps3-tools-collection.594/) - Set of PC tools, converters and viewers for PS3
 * [PyPS3tools by LittleBalup](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files.
 
 ### Online Tools & Databases
+* 
+* [PS3-THM-KZ](https://kizeo0.github.io/PS3-THM-KZ) | [PKG](https://github.com/kizeo0/PS3-THM-KZ/releases/download/PKG/PS3.THM.KZ.pkg) by @kizeo0
+* [PSN-Content Database](https://ps3-pro.github.io/PSN-Content/files/index.html) | [PKG](https://github.com/PS3-Pro/PSN-Content/releases/download/Release/PlayStation_Network_Database.pkg)
 * [PS1 LibCrypt Subchannels Data Database](https://ps3.aldostools.org/lsd.html) [[LSD](https://ps3.aldostools.org/lsd.html)] / [[SBI](https://ps3.aldostools.org/sbi.html)]
 * [PS1 Config Database](https://ps3.aldostools.org/ps1config.html) - ps1_netemu External Configs
 * [PS2 Config Database](https://ps3.aldostools.org/ps2config.html) / [PS2CONFIG.pkg](https://github.com/aldostools/webMAN-MOD/releases/download/1.47.48/PS2CONFIG.pkg)
@@ -102,12 +108,14 @@
 * [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
 * [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
+* [SCZ Videohost](https://videogamesscz.github.io/videohost)
 
 ### Stuff for PS4 & PS5 Scenes
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5: [ItemzFlow](https://pkg-zone.com/details/ITEM00001) | [PS4 Xplorer 2.0](https://pkg-zone.com/details/LAPY20009) | [PS5 Xplorer](https://pkg-zone.com/details/LAPY20011) | [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)
+* [ps5shopappkg.pages.dev](http://ps5shopappkg.infy.uk/?i=1)
 * [PPPwnUI](https://github.com/aldostools/PPPwnUI) - PPPwnUI adds an UI to the PS4 exploit [PPPwn](https://github.com/TheOfficialFloW/PPPwn) created by [Andy Nguyen](https://github.com/TheOfficialFloW)
 * [PS5 Payloads](https://github.com/aldostools/PS5-Payloads/releases) - Fork of PS5-Payloads Sender by @Master-s including the latest payloads
-* [GoldHEN](https://github.com/goldhen) - Advanced HEN exploit for PS4 5.05, 6.71-6.72, 9.00, 9.60, 10.00-10.01, 10.50, 10.70-10.71, 11.00 by [SiSTR0](https://github.com/SiSTR0)
+* [SiSTRo's GoldHEN shop](https://ko-fi.com/sistro/shop) - Advanced HEN exploit for PS4 5.05, 6.71-6.72, 9.00, 9.60, 10.00-10.01, 10.50, 10.70-10.71, 11.00-13.00 by [SiSTR0](https://github.com/SiSTR0) | [goldhen](https://github.com/goldhen)
 * [PS4-HEN-PPPwn-VTX](https://github.com/EchoStretch/ps4-hen-vtx/releases) - HEN exploit for PS4 7.55 to 11.00 by [EchoStretch](https://github.com/EchoStretch)
 * [etaHEN](https://github.com/LightningMods/etaHEN) - HEN exploit for PS5 by [LightningMods](https://github.com/LightningMods) / [ItemzFlow](https://github.com/LightningMods/itemzflow) for PS4 & PS5
 * [ps5-payload-dev](https://github.com/orgs/ps5-payload-dev/repositories) - PS5 payloads by [John Törnblom](https://github.com/john-tornblom?tab=repositories)
