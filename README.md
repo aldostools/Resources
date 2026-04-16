@@ -53,8 +53,8 @@
 ### Firmware Tools for PS3
 * [ps3xploit.me](https://ps3xploit.me/) - PS3HEN 3.5.0 - Homebrew Enabler for *all* [PS3 models](http://www.psdevwiki.com/ps3/SKU_Models) (4.80-4.93) / Requires [Hybrid Firmware](https://www.brewology.com/?p=4767) for 4.83-4.93
 * [ps3toolset.com](http://www.ps3toolset.com/) - BGToolset - Set of online tools to enable CFW installation on PS3 4.75-4.92 CEX/DEX/OFW/HFW/CFW
-* [BadHTAB (fork)](https://github.com/esc0rtd3w/BadHTAB) / [BadHTAB](https://github.com/aomsin2526/BadHTAB) / [BadWDSD](https://github.com/aomsin2526/BadWDSD) + [qCFW](https://github.com/aomsin2526/Cobra-PS3-qCFW)
-* [PS3Xploit Flash Writer 4.90/4.91](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) / Requires [HFW 4.90 or HFW 4.91](https://www.brewology.com/?p=4767)
+* [BadWDSD](https://github.com/aomsin2526/BadWDSD) + [qCFW](https://github.com/aomsin2526/Cobra-PS3-qCFW) / [BadHTAB](https://github.com/aomsin2526/BadHTAB) / [BadHTAB (fork)](https://github.com/esc0rtd3w/BadHTAB)
+* [PS3Xploit Flash Writer 4.90/4.91/4.93](https://aldostools.github.io/flashwriter/) - Lets install [CFW 4.90](https://www.brewology.com/?p=4704) or [CFW 4.91](https://www.brewology.com/?p=4745) or [CFW 4.93](https://www.brewology.com/?p=4840) / Requires [HFW 4.90 or HFW 4.91 or HFW 4.93](https://www.brewology.com/?p=4843)
 * [Flash Dumper](https://aldostools.github.io/flash-dumper)
 * [Auto HEN SCZ 4.93](https://videogamesscz.github.io/henauto493) - Alternative installer for Homebrew Enabler with Multifix by Videogames SCZ
 * [Auto HEN](https://aldostools.github.io/install-ps3hen) - Alternative installer for Homebrew Enabler by Coro [[Mirror](https://ps3addict.github.io/alternate)] [[lmn7's Auto HEN](https://ps3addict.github.io/autohen)]
@@ -109,6 +109,7 @@
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
 * [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
 * [SCZ Videohost](https://videogamesscz.github.io/videohost)
+* [Kizeo's PS3 Themes](https://kizeo0.github.io/PS3-THM-KZ/)
 
 ### Stuff for PS4 & PS5 Scenes
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5: [ItemzFlow](https://pkg-zone.com/details/ITEM00001) | [PS4 Xplorer 2.0](https://pkg-zone.com/details/LAPY20009) | [PS5 Xplorer](https://pkg-zone.com/details/LAPY20011) | [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)
@@ -121,3 +122,4 @@
 * [ps5-payload-dev](https://github.com/orgs/ps5-payload-dev/repositories) - PS5 payloads by [John Törnblom](https://github.com/john-tornblom?tab=repositories)
 * [All Hosted Exploits Sites](https://all-exhost.github.io) - Repository of Sites with Hosted Exploits for [PS4](https://github.com/GoldHEN) & [PS5](https://github.com/LightningMods/etaHEN) - Use at your own risk!<br>
 [lightningmods.github.io](https://lightningmods.github.io/exploits/PS5/IPV6)  [es7in1.site](https://es7in1.site) | [kamaleon](https://kmeps4.site) [pppwn](https://kmeps4.site/pppwn) | [karo](https://karo218.ir) [pppwn](https://karo218.ir/1100/) | [wrozen](https://wrozen.com) | [wolf](https://wolf-5.github.io) | [gamerhack](https://gamerhack.github.io) | [leeful](https://leeful.github.io) | [ps4hen](https://ps4hen.ru) | [ps4macedo](https://github.com/ps4macedo?tab=repositories) | [metro](https://metro70.neocities.org/) | [cthugha](https://cthugha.exploit.menu) | [darkmodder](https://darkmoddervc.github.io/PS4JB) | [bishalqx980](https://bishalqx980.github.io/) | [zecoxao](https://zecoxao.github.io) | [ps-phwoar](https://ps-phwoar.github.io) | [psphive](https://leeful.github.io/psphive) | [ps5sl8](https://ps4macedo.github.io/ps5sl8) | [editzz](https://ps5.editzz.net) | [magnumhost](https://www.magnumhost.my.id) | [ps5xploit](https://ps5xploit.github.io) | [CVE Test](https://debvt.github.io/Wm)
+
