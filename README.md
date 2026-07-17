@@ -42,6 +42,7 @@
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [ezRemote Client](https://store.brewology.com/ahomebrew.php?brewid=332) - File Manager with FTP / SMB / NFS / WebDAV / HTTP protocols
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
+* [Mohasi Homebrews](https://codeberg.org/mohasi/ps3-dev/releases) - Yo-Player!, File Manager, Simple Disc Mount, Simple FTP, Cell Stream, RCO Studio
 
 ### Modding Tools for PS3
 * [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
