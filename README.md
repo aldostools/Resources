@@ -43,6 +43,7 @@
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [ezRemote Client](https://store.brewology.com/ahomebrew.php?brewid=332) - File Manager with FTP / SMB / NFS / WebDAV / HTTP protocols
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
+* [PS3 rap.bin pack](https://github.com/PS3-Pro/License-Files) - Over 31K rap licenses in a single file
 
 ### Modding Tools for PS3
 * [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
@@ -106,9 +107,10 @@
 
 ### Other Useful Repositories for PS3
 * [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
-* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums
+* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums | [PSX-PLACE News - PS3 Portal](ps3-pro.github.io/PSX-Place/file)
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
-* [NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3
+* [PS3 Pro - PSN Content](https://ps3-pro.github.io/PSN-Content/files/index.html)
+* [s][NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3[/s]
 * [SCZ Videohost](https://videogamesscz.github.io/videohost)
 * [Kizeo's PS3 Themes](https://kizeo0.github.io/PS3-THM-KZ/)
 
