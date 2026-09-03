@@ -110,7 +110,7 @@
 * [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums | [PSX-PLACE News - PS3 Portal](ps3-pro.github.io/PSX-Place/file)
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
 * [PS3 Pro - PSN Content](https://ps3-pro.github.io/PSN-Content/files/index.html)
-* [s][NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3[/s]
+* ~[NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3~
 * [SCZ Videohost](https://videogamesscz.github.io/videohost)
 * [Kizeo's PS3 Themes](https://kizeo0.github.io/PS3-THM-KZ/)
 
