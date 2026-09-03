@@ -36,13 +36,13 @@
 * [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
  
 ### Essential Tools for PS3
+* [Mohasi Homebrews](https://github.com/mohasi/ps3-dev/releases) - Yo-Player!, File Manager, Simple Disc Mount, Simple FTP, Cell Stream, RCO Studio
 * [Apollo Save Tool PS3](https://store.brewology.com/ahomebrew.php?brewid=321) - Save-game & Trophy Manager
 * [Artemis PS3](https://store.brewology.com/ahomebrew.php?brewid=291) - Cheat database & engine for PS3 games
 * [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
 * [PKGi](https://store.brewology.com/ahomebrew.php?brewid=320) - Online Content Manager
 * [ezRemote Client](https://store.brewology.com/ahomebrew.php?brewid=332) - File Manager with FTP / SMB / NFS / WebDAV / HTTP protocols
 * [PS3xPAD](https://www.psx-place.com/resources/ps3xpad.22/) - USB & Wireless Controller plugin
-* [Mohasi Homebrews](https://codeberg.org/mohasi/ps3-dev/releases) - Yo-Player!, File Manager, Simple Disc Mount, Simple FTP, Cell Stream, RCO Studio
 
 ### Modding Tools for PS3
 * [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
@@ -62,7 +62,7 @@
 
 #### Custom Firmware
 * [EvilNat's CFW 4.93 Cobra 8.5](https://www.psx-place.com/threads/4-93-evilnat-w-cobra-v8-5-cex-pex-d-pex.39743/) [PUPs](https://mega.nz/folder/JN9lSbZD#lTipeQNvQBQXvP5vDFj7ZQ) - Latest CFW for PS3 [[Older versions](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=evilnat)]
-* [BadWDSD for Slim 3xxx & Superslim: .uf2/Modchip + qCFW](https://github.com/aomsin2526/BadWDSD/releases) Based on Evilnat 4.92.2 PEX
+* [BadWDSD for Slim 3xxx & Superslim: .uf2/Modchip + qCFW](https://github.com/aomsin2526/BadWDSD/releases) Based on Evilnat 4.93 PEX + jig
 * [Custom Firmware MODs](https://github.com/aldostools/Resources/releases/MODS) - Packages to customize CFW Evilnat
 * [Custom Firmware Downloads](https://archive.midnightchannel.net/SonyPS/Firmware/?cat=rebug) / 
   [Rebug Toolbox + Rebug CFW 4.84 & 4.86](https://store.brewology.com/ahomebrew.php?brewid=308)
