@@ -112,7 +112,7 @@
 * [PS3 Pro - PSN Content](https://ps3-pro.github.io/PSN-Content/files/index.html)
 * ~[NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3~
 * [SCZ Videohost](https://videogamesscz.github.io/videohost)
-* [Kizeo's PS3 Themes](https://kizeo0.github.io/PS3-THM-KZ/)
+* [Kizeo's PS3 Themes](https://kizeo0.github.io/PS3-THM-KZ/) | [Gitlab Mirror](https://ps-3-thm-kz-1dace0.gitlab.io/)
 
 ### Stuff for PS4 & PS5 Scenes
 * [pkg-zone](https://pkg-zone.com) - Repository of homebrews for PS4 & PS5: [ItemzFlow](https://pkg-zone.com/details/ITEM00001) | [PS4 Xplorer 2.0](https://pkg-zone.com/details/LAPY20009) | [PS5 Xplorer](https://pkg-zone.com/details/LAPY20011) | [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)
