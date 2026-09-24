@@ -107,10 +107,9 @@
 
 ### Other Useful Repositories for PS3
 * [psdevwiki](https://psdevwiki.com/) - PlayStation Developer Wiki
-* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums | [PSX-PLACE News - PS3 Portal](ps3-pro.github.io/PSX-Place/file)
+* [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums | [PSX-PLACE News - PS3 Portal](https://ps3-pro.github.io/PSX-Place/files/index.html)
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
-* [PS3 Pro - PSN Content](https://ps3-pro.github.io/PSN-Content/files/index.html)
-* ~[NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3~
+* ~[NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3~ Not working: DNS Error. Use [PS3 Pro - PSN Content](https://ps3-pro.github.io/PSN-Content/files/index.html)
 * [SCZ Videohost](https://videogamesscz.github.io/videohost)
 * [Kizeo's PS3 Themes](https://kizeo0.github.io/PS3-THM-KZ/) | [Gitlab Mirror](https://ps-3-thm-kz-1dace0.gitlab.io/)
 
