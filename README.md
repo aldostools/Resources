@@ -34,9 +34,17 @@
 * [MultiMAN](https://store.brewology.com/ahomebrew.php?brewid=24)
 * [sMAN](https://store.brewology.com/ahomebrew.php?brewid=309)
 * [RetroArch CE](https://store.brewology.com/ahomebrew.php?brewid=152) 
- 
-### Essential Tools for PS3
+
+### Some Active Developers for PS3
+* [PS3-pro Homebrews](https://github.com/PS3-Pro?tab=releases)
 * [Mohasi Homebrews](https://github.com/mohasi/ps3-dev/releases) - Yo-Player!, File Manager, Simple Disc Mount, Simple FTP, Cell Stream, RCO Studio
+* [Mayo1970 Homebrews](https://github.com/Mayo1970?tab=repositories) - NotDC-PS3, HaloCE, ioQuake
+* [ricowp81 Homebrews](https://github.com/ricowp81?tab=repositories) - Salsa64, SalsaDS
+* [theheroGAC Homebrews](https://github.com/theheroGAC?tab=repositories) - pEMU-PS3, picodrive-PS3, UAE4ALL2-HD-PS3
+* [stingziz0u Homebrews](https://github.com/stingziz0u?tab=repositories) - reLCS, re3, reVC, tyrquakecell, ecellwolf, yamagiquake2-ps3
+* [PPSSPP PS3](https://github.com/Calyps0man/ppsspp/releases)
+
+### Essential Tools for PS3
 * [Apollo Save Tool PS3](https://store.brewology.com/ahomebrew.php?brewid=321) - Save-game & Trophy Manager
 * [Artemis PS3](https://store.brewology.com/ahomebrew.php?brewid=291) - Cheat database & engine for PS3 games
 * [Movian](https://store.brewology.com/ahomebrew.php?brewid=196) - Media Player / File Manager
@@ -110,7 +118,7 @@
 * [PSX-PLACE](https://www.psx-place.com/resources/) - PlayStation Homebrews, Exploits & Forums | [PSX-PLACE News - PS3 Portal](https://ps3-pro.github.io/PSX-Place/files/index.html)
 * [Brewology](https://brewology.com) - Repository of homebrews for [PS3](https://store.brewology.com) & [Vita](https://store.brewology.com/vita)
 * ~[NoPSN](https://nopsn.org/pkg/ps3/) - Repository of Patched Apps for PS3~ Not working: DNS Error. Use [PS3 Pro - PSN Content](https://ps3-pro.github.io/PSN-Content/files/index.html)
-* [SCZ Videohost](https://videogamesscz.github.io/videohost)
+* [SCZ Videohost](https://videogamesscz.github.io/videohost) | [retrogamesv2.gitlab.io](https://retrogamesv2.gitlab.io) | [RetroPlay1](https://retrogamesv2.gitlab.io/retroplay1.html)
 * [Kizeo's PS3 Themes](https://kizeo0.github.io/PS3-THM-KZ/) | [Gitlab Mirror](https://ps-3-thm-kz-1dace0.gitlab.io/)
 
 ### Stuff for PS4 & PS5 Scenes
